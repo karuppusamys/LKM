@@ -1,4 +1,0 @@
-tesdfdfd
-:wq
-:wq
-t
